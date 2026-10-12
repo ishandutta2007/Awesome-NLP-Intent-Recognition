@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-NLP-Intent-Recognition/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-NLP-Intent-Recognition?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-NLP-Intent-Recognition/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-NLP-Intent-Recognition?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-NLP-Intent-Recognition/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-NLP-Intent-Recognition?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-NLP-Intent-Recognition/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -75,9 +75,9 @@ The following table summarizes enterprise SaaS and managed cloud APIs for intent
 
 ## 💻 Open-Source GitHub Projects
 
-The following table presents open-source repositories, libraries, and frameworks for intent classification, NLU pipelines, and conversational AI. Sorted in descending order by **GitHub Star Count** 🌟.
+The following table presents open-source repositories, libraries, and frameworks for intent classification, NLU pipelines, and conversational AI. Sorted in descending order by **GitHub Stars_Count** 🌟.
 
-| Repository | Stars | License | Primary Use Case & Key Focus |
+| Repository | GitHub_Stars | License | Primary Use Case & Key Focus |
 | :--- | :--- | :--- | :--- |
 | **[Hugging Face Transformers](https://github.com/huggingface/transformers)** 🚀 | [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers) | Apache 2.0 | SOTA transformer architectures (BERT, RoBERTa, DeBERTa) for fine-tuning text classification, zero-shot intent recognition, and sequence labeling. |
 | **[google-research/bert](https://github.com/google-research/bert)** 🧠 | [![Stars](https://img.shields.io/github/stars/google-research/bert?style=social&color=white)](https://github.com/google-research/bert/stargazers) | Apache 2.0 | Foundational bidirectional encoder representations for language; benchmark baseline for intent classification and slot filling tasks. |
