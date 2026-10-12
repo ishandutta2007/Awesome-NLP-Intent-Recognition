@@ -29,6 +29,8 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architecture & Recommended Tech Stack](#️-architecture--recommended-tech-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -141,6 +143,25 @@ Contributions are enthusiastically welcomed! To propose additions, updates, or b
 
 ---
 
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-NLP-Intent-Recognition&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-NLP-Intent-Recognition&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing **Awesome NLP Intent Recognition**! 🌟
+
+If this repository has helped your research, team, or production conversational AI architecture, please consider supporting the project:
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** your favorite models, tools, or real-world benchmarks.
+- 📢 **Share with colleagues & friends** working across NLP and conversational AI communities.
+- ☕ **Buy a Coffee / Sponsor**: Support ongoing maintenance and curation on the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this curated ecosystem up-to-date and accessible to all developers! ✨
+
+---
+
 ## ⚖️ Disclaimer & Compliance
 
 - This repository is an independently curated educational and technical index. Product names, logos, and brands are property of their respective owners.
@@ -152,3 +173,4 @@ Contributions are enthusiastically welcomed! To propose additions, updates, or b
 <p align="center">
   <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">@ishandutta2007</a> and the Conversational AI community.</sub>
 </p>
+
