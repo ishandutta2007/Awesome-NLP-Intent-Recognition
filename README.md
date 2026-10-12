@@ -1,6 +1,6 @@
 # Awesome-NLP-Intent-Recognition
 
-# Top NLP Intent Recognition Tools Ecosystem
+## Top NLP Intent Recognition Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Intent Classification, Slot Filling & Conversational Language Understanding*  
